@@ -1,7 +1,6 @@
 # Statistics-with-R-Duke
 
 - Portfolio of data analysis projects from the [Statistics with R Specialization Duke University](https://www.coursera.org/specializations/statistics#about)
-
 - Click on links below to view html documents.
 
 ## Introduction to Probability and Data
