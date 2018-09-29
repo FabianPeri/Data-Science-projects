@@ -1,7 +1,7 @@
 # Statistics-with-R-Duke
 
-## Portfolio of data analysis projects from the [Statistics with R Specialization](https://www.coursera.org/specializations/statistics#about)
-###### Click on links below to view html documents.
+Portfolio of data analysis projects from the [Statistics with R Specialization](https://www.coursera.org/specializations/statistics#about)
+Click on links below to view html documents.
 
 ## Introduction to Probability and Data
 1. [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/FabianPeri/Statistics-with-R-Duke/blob/master/01%20-%20Probability%20and%20Data/01_-_Introduction_to_R_and_RStudio.html)
