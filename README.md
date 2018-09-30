@@ -1,5 +1,5 @@
 # Data Science projects
-- A portfolio of data science projects and moocs that I have completed.
+A portfolio of data science projects and moocs that I have completed.
 
 > Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics#about)
 1. [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/FabianPeri/Statistics-with-R-Duke/blob/master/01%20-%20Probability%20and%20Data/01_-_Introduction_to_R_and_RStudio.html)
