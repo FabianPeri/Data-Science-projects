@@ -3,7 +3,7 @@ A portfolio of data science projects and moocs that I have completed.
 
 > * Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics#about)
 
-    * Data analysis including inference, modeling, and Bayesian approaches.
+    Data analysis including inference, modeling, and Bayesian approaches.
 1. [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01%20-%20Probability%20and%20Data/01_-_Introduction_to_R_and_RStudio.html)
 2. [Introduction to data](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01%20-%20Probability%20and%20Data/02_-_Introduction_to_data.html)
 3. [Probability Hot Hands in basketball](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01%20-%20Probability%20and%20Data/03_-_Probability_Hot_Hands_in_basketball.html)
