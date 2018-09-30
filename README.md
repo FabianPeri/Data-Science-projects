@@ -1,6 +1,4 @@
 # Data Science projects
-
-* Index
 - [Statistics with R Specialization](#statistics-with-r-specialization)
 
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
