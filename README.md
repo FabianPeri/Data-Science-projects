@@ -3,7 +3,8 @@
 
 * Statistics-with-R-Duke
 1. Introduction to Probability and Data
-######Portfolio of data analysis projects from the [Statistics with R Specialization Duke University(https://www.coursera.org/specializations/statistics#about)
+Portfolio of data analysis projects from the [Statistics with R Specialization Duke University(https://www.coursera.org/specializations/statistics#about)
+
  -[Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/FabianPeri/Statistics-with-R-Duke/blob/master/01%20-%20Probability%20and%20Data/01_-_Introduction_to_R_and_RStudio.html)
  -[Introduction to data](http://htmlpreview.github.io/?https://github.com/FabianPeri/Statistics-with-R-Duke/blob/master/01%20-%20Probability%20and%20Data/02_-_Introduction_to_data.html)
  -[Probability Hot Hands in basketball](http://htmlpreview.github.io/?https://github.com/FabianPeri/Statistics-with-R-Duke/blob/master/01%20-%20Probability%20and%20Data/03_-_Probability_Hot_Hands_in_basketball.html)
