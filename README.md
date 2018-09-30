@@ -1,5 +1,4 @@
 # Data Science projects
-A portfolio of data science projects and moocs that I have completed.
 
     Statistics with R Specialization [Duke University]
     * Data analysis including inference, modeling, and Bayesian approaches.
