@@ -1,6 +1,6 @@
 # Data Science projects
 
-##### Statistics with R Specialization [Duke University]
+#### Statistics with R Specialization [Duke University]
 Data analysis including inference, modeling, and Bayesian approaches.
 1. [Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01%20-%20Probability%20and%20Data/01_-_Introduction_to_R_and_RStudio.html)
 2. [Introduction to data](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01%20-%20Probability%20and%20Data/02_-_Introduction_to_data.html)
