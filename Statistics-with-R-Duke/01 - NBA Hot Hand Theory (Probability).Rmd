@@ -1,8 +1,14 @@
 ---
 title: "Probability"
+author: Fabian Peri
+date: October 3, 2018
 output: statsr:::statswithr_lab
 ---
 
+<div id="instructions">
+Complete all **Exercises**, and submit answers to **Questions** on the Coursera 
+platform.
+</div>
 
 ## Hot Hands
 
@@ -197,6 +203,8 @@ an argument called `prob`, which provides a vector of two probability weights.
 ```{r sim-unfair-coin}
 sim_unfair_coin <- sample(coin_outcomes, size = 100, replace = TRUE, 
                           prob = c(0.2, 0.8))
+
+table(sim_unfair_coin)
 ```
 
 `prob = c(0.2, 0.8)` indicates that for the two elements in the `outcomes` vector,
@@ -209,6 +217,7 @@ chip that says "head"" is 20%, and "tail" is 80%.
 <div id="exercise">
 **Exercise**: In your simulation of flipping the unfair coin 100 times, how many flips came up heads?
 </div>
+<b>View table above (sim_unfair_coin)</b>
 
 In a sense, we've shrunken the size of the slip of paper that says "heads", 
 making it less likely to be drawn and we've increased the size of the slip of 
@@ -229,7 +238,6 @@ independent shooter with a shooting percentage of 50% we type,
 
 ```{r sim-basket}
 shot_outcomes <- c("H", "M")
-sim_basket <- sample(shot_outcomes, size = 1, replace = TRUE)
 ```
 
 To make a valid comparison between Kobe and our simulated independent shooter, 
@@ -241,7 +249,7 @@ we need to align both their shooting percentage and the number of attempted shot
 </div>
 ```{r}
 # type your code for the Exercise here, and Knit
-sim_basket <- sample(shot_outcomes, size = 133, replace = TRUE, prob = c(0.45, 0.55)) 
+sim_basket <- sample(shot_outcomes, size = 133, replace = TRUE, prob = c(0.45, 0.55))
 table(sim_basket)
 ```
 
@@ -266,8 +274,8 @@ a hot hand.
 </div>
 ```{r sim-streak-lengths}
 # type your code for the Exercise here, and Knit
-kobe_streak <- calc_streak(kobe_basket$shot) 
-sim_streak <- calc_streak(sim_basket)
+kobe_streak <- calc_streak(kobe_basket$shot)
+sim_streak <-  calc_streak(sim_basket)
 ```
    
 <div id="exercise">
@@ -275,11 +283,9 @@ sim_streak <- calc_streak(sim_basket)
 </div>
 ```{r plot-sim-streaks}
 # type your code for the Exercise here, and Knit
-# Compute summaries:
 summary(kobe_streak)
 summary(sim_streak)
 
-# Make bar plots:
 kobe_table <- table(kobe_streak)
 sim_table <- table(sim_streak)
 
@@ -306,3 +312,13 @@ evidence that the hot hand model fits Kobe's shooting patterns?
 <li> The distributions look very different. Therefore, there doesn't appear to be evidence for Kobe Bryant's hot hand. </li>
 <li> The distributions look very different. Therefore, there appears to be evidence for Kobe Bryant's hot hand. </li>
 </ol>
+
+<div id="exercise">
+**Exercise**: What concepts from the course videos are covered in this lab? What 
+concepts, if any, are not covered in the videos? Have you seen these concepts 
+elsewhere, e.g. textbook, previous labs, or practice problems?
+</div>
+
+<div id="license">
+This is a derivative of an [OpenIntro](https://www.openintro.org/stat/labs.php) lab, and is released under a [Attribution-NonCommercial-ShareAlike 3.0 United States](https://creativecommons.org/licenses/by-nc-sa/3.0/us/) license.
+</div>
