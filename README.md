@@ -1,6 +1,6 @@
 # Data Science projects
 ###### Index
-- [Statistics with R Specialization](#statistics-with-r-specialization-duke-university)
+- [Statistics with R](#statistics-with-r-specialization-duke-university)
 ---
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
 Data analysis including inference, modeling, and Bayesian approaches.
