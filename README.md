@@ -5,7 +5,7 @@
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
-1. [The NBA "hot hand" theory](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01_-_NBA_Hot_Hand_Theory__Probability_.html) | *Comparison of simulated vs actual data in order to determine if the hot hand phenomenon appears to be real*
+1. [Exploratory Data Analysis](http://htmlpreview.github.io/?https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-with-R-Duke/01_-_NBA_Hot_Hand_Theory__Probability_.html) | *Exploring data using R*
 ---
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
 Data analysis including inference, modeling, and Bayesian approaches.
