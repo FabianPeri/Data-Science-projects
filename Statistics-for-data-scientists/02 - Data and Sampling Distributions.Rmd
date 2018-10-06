@@ -23,6 +23,7 @@ loans_income <- read.csv(file.path(PSDS_PATH, 'data', 'loans_income.csv'))[,1]
 sp500_px <- read.csv(file.path(PSDS_PATH, 'data', 'sp500_px.csv'))
 ```
 
+```{r}
 x <- seq(from=-3, to=3, length=300)
 gauss <- dnorm(x)
 
@@ -37,12 +38,15 @@ norm_samp <- rnorm(100)
 par(mar=c(3, 3, 0, 0)+.1)
 hist(norm_samp, axes=FALSE, col='red', main='')
 dev.off()
+```
 
+```{r}
 ## Code snippet 2.1
 stat_fun <- function(x, idx) median(x[idx])
 boot_obj <- boot(loans_income, R = 1000, statistic=stat_fun)
+```
 
-
+```{r}
 # take a simple random sample
 samp_data <- data.frame(income=sample(loans_income, 1000), 
                         type='data_dist')
@@ -73,8 +77,9 @@ ggplot(income, aes(x=income)) +
   facet_grid(type ~ .) +
   theme_bw()
 dev.off()
+```
 
-
+```{r}
 ## Code for Figure 11
 png(filename=file.path(PSDS_PATH, 'figures', 'psds_0211.png'),  width = 4, height=4, units='in', res=300)
 norm_samp <- rnorm(100)
@@ -82,7 +87,9 @@ par(mar=c(3, 3, 0, 0)+.1)
 qqnorm(norm_samp, main='', xlab='', ylab='')
 abline(a=0, b=1, col='grey')
 dev.off()
+```
 
+```{r}
 ## Code for Figure 12
 png(filename=file.path(PSDS_PATH, 'figures', 'psds_0212.png'),  width = 4, height=4, units='in', res=300)
 par(mar=c(3, 3, 0, 0)+.1)
@@ -91,3 +98,4 @@ nflx <- diff(log(nflx[nflx>0]))
 qqnorm(nflx, main='', xlab='', ylab='')
 abline(a=0, b=1, col='grey')
 dev.off()
+```

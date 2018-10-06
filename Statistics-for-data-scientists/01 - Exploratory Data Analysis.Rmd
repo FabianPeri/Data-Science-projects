@@ -308,13 +308,3 @@ ggplot(subset(kc_tax0, ZipCode %in% c(98188, 98105, 98108, 98126)),
   facet_wrap("ZipCode")
 dev.off()
 ```
-
-
-
-
-
-
-
-
-
-
