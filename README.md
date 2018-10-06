@@ -6,6 +6,7 @@
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
 1. [Exploratory Data Analysis](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/01_-_Exploratory_Data_Analysis.pdf) | *Exploring data using R*
+2. [Data and Sampling Distributions](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/02_-_Data_and_Sampling_Distributions.pdf) | *Principles of sampling and distributions*
 ---
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
 Data analysis including inference, modeling, and Bayesian approaches.
