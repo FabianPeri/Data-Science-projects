@@ -2,7 +2,7 @@
 title: "Foundations for inference - Sampling distributions"
 author: Fabian Peri
 date: October 3, 2018
-output: statsr:::statswithr_lab
+output: pdf_document
 ---
 
 <div id="instructions">
@@ -77,7 +77,7 @@ ames %>%
 1.  Which of the following is **false**?
 <ol>
 <li> The distribution of areas of houses in Ames is unimodal and right-skewed. </li>
-<li> <b>50\% of houses in Ames are smaller than 1,499.69 square feet.</b> </li>
+<li> **50\% of houses in Ames are smaller than 1,499.69 square feet.** </li>
 <li> The middle 50\% of the houses range between approximately 1,126 square feet and 1,742.7 square feet. </li>
 <li> The IQR is approximately 616.7 square feet. </li>
 <li> The smallest house is 334 square feet and the largest is 5,642 square feet. </li>
@@ -137,7 +137,7 @@ population.
 <ol>
 <li> Sample size of 50. </li>
 <li> Sample size of 100. </li>
-<li> <b>Sample size of 1000.</b> </li>
+<li> **Sample size of 1000.** </li>
 </ol>
 
 Let's take one more sample of size 50, and view the mean area in this sample:
@@ -225,7 +225,7 @@ ggplot(data = sample_means_small, aes(x = x_bar)) +
 <ol>
 <li> 0 </li>
 <li> 3 </li>
-<li> <b>25</b> </li>
+<li> **25** </li>
 <li> 100 </li>
 <li> 5,000 </li>
 </ol>
@@ -236,7 +236,7 @@ dim(sample_means_small)[1]
 
 4. Which of the following is **true** about the elements in the sampling distributions you created?
 <ol>
-<li> <b>Each element represents a mean square footage from a simple random sample of 10 houses.</b> </li>
+<li> **Each element represents a mean square footage from a simple random sample of 10 houses.** </li>
 <li> Each element represents the square footage of a house. </li>
 <li> Each element represents the true population mean of square footage of houses. </li>
 </ol>
@@ -348,7 +348,7 @@ shinyApp(
 
 5. It makes intuitive sense that as the sample size increases, the center of the sampling distribution becomes a more reliable estimate for the true population mean. Also as the sample size increases, the variability of the sampling distribution ________. 
 <ol>
-<li> <b>decreases</b> </li>
+<li> **decreases** </li>
 <li> increases </li>
 <li> stays the same </li>
 </ol>
@@ -449,7 +449,7 @@ mean(sample_means150$x_bar)
 
 6. Which of the following is false? 
 <ol>
-<li> <b>The variability of the sampling distribution with the smaller sample size (`sample_means50`) is smaller than the variability of the sampling distribution with the larger sample size (`sample_means150`).</b> </li>
+<li> **The variability of the sampling distribution with the smaller sample size (`sample_means50`) is smaller than the variability of the sampling distribution with the larger sample size (`sample_means150`).** </li>
 <li> The means for the two sampling distribtuions are roughly similar. </li> 
 <li> Both sampling distributions are symmetric. </li>
 </ol>

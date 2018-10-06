@@ -77,7 +77,7 @@ occurrence).
 
 1.  Fill in the blank: A streak length of 1 means one \_\_\_ followed by one miss.
 <ol>
-<li> <b>hit</b> </li>
+<li> **hit** </li>
 <li> miss </li>
 </ol>
 
@@ -86,7 +86,7 @@ occurrence).
 miss that ended the preceeding streak.
 <ol>
 <li> hit </li>
-<li> <b>miss</b> </li>
+<li> **miss** </li>
 </ol>
 
 Counting streak lengths manually for all 133 shots would get tedious, so we'll
@@ -111,7 +111,7 @@ from the 2009 NBA finals.
 <li> The typical length of a streak is 0 since the median of the distribution is at 0. </li>
 <li> The IQR of the distribution is 1. 
 <li> The longest streak of baskets is of length 4. </li>
-<li> <b>The shortest streak is of length 1.</b></li>
+<li> **The shortest streak is of length 1.**</li>
 </ol>
 
 ## Compared to What?
@@ -217,7 +217,7 @@ chip that says "head"" is 20%, and "tail" is 80%.
 <div id="exercise">
 **Exercise**: In your simulation of flipping the unfair coin 100 times, how many flips came up heads?
 </div>
-<b>View table above (sim_unfair_coin)</b>
+**View table above (sim_unfair_coin)**
 
 In a sense, we've shrunken the size of the slip of paper that says "heads", 
 making it less likely to be drawn and we've increased the size of the slip of 
@@ -298,7 +298,7 @@ would you expect its streak distribution to compare to the distribution from the
 exercise above? 
 <ol>
 <li> Exactly the same  </li>
-<li> <b>Somewhat similar</b> </li>
+<li> **Somewhat similar** </li>
 <li> Totally different </li>
 </ol>
 
@@ -307,7 +307,7 @@ exercise above?
 of streak lengths for the simulated shooter? Using this comparison, do you have 
 evidence that the hot hand model fits Kobe's shooting patterns?
 <ol>
-<li> <b>The distributions look very similar. Therefore, there doesn't appear to be evidence for Kobe Bryant's hot hand.</b> </li>
+<li> **The distributions look very similar. Therefore, there doesn't appear to be evidence for Kobe Bryant's hot hand.** </li>
 <li> The distributions look very similar. Therefore, there appears to be evidence for Kobe Bryant's hot hand. </li>
 <li> The distributions look very different. Therefore, there doesn't appear to be evidence for Kobe Bryant's hot hand. </li>
 <li> The distributions look very different. Therefore, there appears to be evidence for Kobe Bryant's hot hand. </li>

@@ -2,7 +2,7 @@
 title: "Inference for categorical data"
 author: Fabian Peri
 date: October 4, 2018
-output: statsr:::statswithr_lab
+output: pdf_document
 ---
 
 <div id="instructions">
@@ -39,7 +39,7 @@ Take a moment to review the report then address the following questions.
 <li> A poll conducted by WIN-Gallup International surveyed 51,000 people from 57 countries. </li>
 <li> A poll conducted by WIN-Gallup International surveyed 52,000 people from 57 countries. </li>
 <li> A poll conducted by WIN-Gallup International surveyed 51,917 people from 57 countries. </li>
-<li> <b>A poll conducted by WIN-Gallup International surveyed 51,927 people from 57 countries.</b> </li>
+<li> **A poll conducted by WIN-Gallup International surveyed 51,927 people from 57 countries.** </li>
 </ol>
 
 2. Which of the following methods were used to gather information? 
@@ -47,18 +47,18 @@ Take a moment to review the report then address the following questions.
 <li> Face to face </li> 
 <li> Telephone </li>
 <li> Internet </li> 
-<li> <b>All of the above</b> </li>
+<li> **All of the above** </li>
 </ol>
 
 3. True / False: In the first paragraph, several key findings are reported. These percentages appear to be **sample statistics**. 
 <ol>
-<li> <b>True</b> </li> 
+<li> **True** </li> 
 <li> False </li>
 </ol>
 
 4. True / False:The title of the report is "Global Index of Religiosity and Atheism". To generalize the report's findings to the global human population, We must assume that the sample was a random sample from the entire population in order to be able to generalize the results to the global human population. This seems to be a reasonable assumption.
 <ol>
-<li> <b>True</b> </li> 
+<li> **True** </li> 
 <li> False </li>
 </ol>
 
@@ -72,7 +72,7 @@ data(atheism)
 
 5. What does each row of Table 6 correspond to? 
 <ol>
-<li> <b>Countries</b> </li> 
+<li> **Countries** </li> 
 <li> Individual Persons </li> 
 <li> Religions </li>
 </ol>
@@ -81,7 +81,7 @@ data(atheism)
 <ol>
 <li> Countries </li> 
 <li> Individual Persons </li> 
-<li> <b>Religions</b> </li>
+<li> **Religions** </li>
 </ol>
 
 To investigate the link between these two ways of organizing this data, take a look at the estimated proportion of atheists in the United States. Towards the bottom of Table 6, we see that this is 5%. We should be able to come to the same number using the `atheism` data.
@@ -96,7 +96,7 @@ us12 <- atheism %>%
 
 7. Next, calculate the proportion of atheist responses in the United States in 2012, i.e. in `us12`. True / False: This percentage agrees with the percentage in Table~6.
 <ol>
-<li> <b>True</b> </li> 
+<li> **True** </li> 
 <li> False </li>
 </ol>
 ```{r perc-atheist-us12}
@@ -135,7 +135,7 @@ Although formal confidence intervals and hypothesis tests don't show up in the r
 <ol>
 <li> The margin of error for the estimate of the proportion of atheists in the US in 2012 is 0.05. </li> 
 <li> The margin of error for the estimate of the proportion of atheists in the US in 2012 is 0.025. </li> 
-<li> <b>The margin of error for the estimate of the proportion of atheists in the US in 2012 is 0.0135.</b> </li>
+<li> **The margin of error for the estimate of the proportion of atheists in the US in 2012 is 0.0135.** </li>
 </ol>
 ```{r me-perc-atheist-us12}
 # type your code for Question 8 here, and Knit
@@ -175,7 +175,7 @@ ggplot(d, aes(x = p, y = me)) +
 <li> The $ME$ reaches a minimum at $p = 0$. </li> 
 <li> The $ME$ reaches a minimum at $p = 1$. </li> 
 <li> The $ME$ is maximized when $p = 0.5$. </li> 
-<li> <b>The most conservative estimate when calculating a confidence interval occurs when $p$ is set to 1.</b> </li>
+<li> **The most conservative estimate when calculating a confidence interval occurs when $p$ is set to 1.** </li>
 </ol>
 
 The question of atheism was asked by WIN-Gallup International in a similar survey that was conducted in 2005. We assume here that sample sizes have remained the same. Table 4 on page 13 of the report summarizes survey results from 2005 and 2012 for 39 countries.
@@ -185,7 +185,7 @@ Answer the following two questions using the `inference` function. As always, wr
 10. True / False: There is convincing evidence that Spain has seen a change in its atheism index between 2005 and 2012. <br><br> *Hint:* Create a new data set for respondents from Spain. Then use their responses as the first input on the `inference`, and use `year` as the grouping variable.
 <ol>
 <li> True </li> 
-<li> <b>False</b> </li>
+<li> **False** </li>
 </ol>
 ```{r spain-05-12}
 # type your code for Question 10 here, and Knit
@@ -201,7 +201,7 @@ inference(y = response, data = spain05, statistic = "proportion", type = "ci", m
 11. True / False: There is convincing evidence that the United States has seen a change in its atheism index between 2005 and 2012.
 <ol>
 <li> True </li> 
-<li> <b>False</b> </li>
+<li> **False** </li>
 </ol>
 ```{r us-05-12}
 # type your code for Question 11 here, and Knit
@@ -218,7 +218,7 @@ inference(y = response, data = us05, statistic = "proportion", type = "ci", meth
 <li> 0 </li>
 <li> 1 </li> 
 <li> 1.95 </li> 
-<li> <b>5</b> </li>
+<li> **5** </li>
 </ol>
 
 
@@ -227,7 +227,7 @@ inference(y = response, data = us05, statistic = "proportion", type = "ci", meth
 <li> 2401 people </li>
 <li> At least 2401 people </li>
 <li> 9604 people </li> 
-<li> <b>At least 9604 people</b> </li>
+<li> **At least 9604 people** </li>
 </ol>
 ```{r sample-size}
 # type your code for Question 13 here, and Knit
