@@ -7,7 +7,7 @@
 Application of various statistical methods to data science.
 1. [Exploratory Data Analysis](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/01_-_Exploratory_Data_Analysis.pdf) | *Exploring data using R*
 2. [Data and Sampling Distributions](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/02_-_Data_and_Sampling_Distributions.pdf) | *Principles of sampling and distributions*
-3. [Statistical_Experiments_and_Significance_Testing](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/03_-_Statistical_Experiments_and_Significance_Testing.pdf) | *Principles of experimental design*
+3. [Statistical Experiments and Significance Testing](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/03_-_Statistical_Experiments_and_Significance_Testing.pdf) | *Principles of experimental design*
 ---
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
 Data analysis including inference, modeling, and Bayesian approaches.
