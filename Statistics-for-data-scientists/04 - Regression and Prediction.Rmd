@@ -22,7 +22,7 @@ library(mgcv)
 ```
 
 ```{r}
-# Import the datasets needed for chapter 3
+# Import the datasets needed for chapter 4
 PSDS_PATH <- file.path('C:/Users/fabia/Desktop', 'psds_data')
 
 ## Import datasets needed for chapter 4
