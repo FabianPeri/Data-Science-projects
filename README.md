@@ -9,7 +9,9 @@ Application of various statistical methods to data science.
 2. [Data and Sampling Distributions](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/02_-_Data_and_Sampling_Distributions.pdf) | *Sampling and distributions*
 3. [Statistical Experiments and Significance Testing](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/03_-_Statistical_Experiments_and_Significance_Testing.pdf) | *Experimental design*
 4. [Regression and Prediction](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/04_-_Regression_and_Prediction.pdf) | *Predicting continuous values*
-4. [Classification](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/05_-_Classification.pdf) | *Predicting classes*
+5. [Classification](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/05_-_Classification.pdf) | *Predicting classes*
+6. [Statistical Machine Learning](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/06_-_Statistical_Machine_Learning.pdf) | *Machine Learning and Statistical modeling*
+7. [Unsupervised Learning](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistics-for-data-scientists/07_-_Unsupervised_Learning.pdf) | *Cluster analysis*
 ---
 #### Statistics with R Specialization [Duke University](https://www.coursera.org/specializations/statistics)
 Data analysis including inference, modeling, and Bayesian approaches.
