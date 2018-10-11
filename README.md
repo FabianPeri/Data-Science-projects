@@ -1,7 +1,12 @@
 # Data Science projects
 ###### Index
+- [An Introduction to Statistical Learning (ISLR)](#an-introduction-to-statistical-learning)
 - [Statistics for Data Scientists](#statistics-for-data-scientists)
 - [Statistics with R](#statistics-with-r-specialization-duke-university)
+---
+#### An Introduction to Statistical Learning [Springer](https://www-bcf.usc.edu/~gareth/ISL/)
+Statistical learning techniques to analyze data.
+1. [Statistical Learning]() | *Intro to statistical learning*
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
