@@ -9,7 +9,8 @@ Statistical learning techniques to analyze data.
 1. [Statistical Learning](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/01_-_Statistical_Learning.pdf) | *Intro to statistical learning*
 2. [Linear Regression](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/02_-_Linear_Regression.pdf) | *Considerations in the Regression Model*
 3. [Logistic Regression, LDA, QDA, and KNN](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/03_-_Logistic_Regression.pdf) | *Considerations in the Classification Model*
-4. [Resampling Methods]() | *Cross-validation & Bootstrap*
+4. [Resampling Methods](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/04_-_Resampling_Methods.pdf) | *Cross-validation & Bootstrap*
+5. [Linear Model Selection & Regularization]() | *Subset Selection Methods*
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
