@@ -1,7 +1,7 @@
 # Data Science projects
 ###### Index
-- [An Introduction to Statistical Learning (ISLR)](#an-introduction-to-statistical-learning)
-- [Statistics for Data Scientists](#statistics-for-data-scientists)
+- [An Introduction to Statistical Learning (ISLR)](#an-introduction-to-statistical-learning-springer)
+- [Statistics for Data Scientists](#statistics-for-data-scientists-oreilly)
 - [Statistics with R](#statistics-with-r-specialization-duke-university)
 ---
 #### An Introduction to Statistical Learning [Springer](https://www-bcf.usc.edu/~gareth/ISL/)
@@ -10,7 +10,9 @@ Statistical learning techniques to analyze data.
 2. [Linear Regression](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/02_-_Linear_Regression.pdf) | *Considerations in the Regression Model*
 3. [Logistic Regression, LDA, QDA, and KNN](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/03_-_Logistic_Regression.pdf) | *Considerations in the Classification Model*
 4. [Resampling Methods](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/04_-_Resampling_Methods.pdf) | *Cross-validation & Bootstrap*
-5. [Linear Model Selection & Regularization]() | *Subset Selection Methods*
+5. [Linear Model Selection & Regularization](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/05_-_Linear_Model_Selection_and_Regularization.pdf) | *Subset Selection Methods*
+6. [Moving Beyond Linearity]() | **
+7. [Tree-Based Methods]() | **
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
