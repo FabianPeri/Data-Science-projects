@@ -11,7 +11,7 @@ Statistical learning techniques to analyze data.
 3. [Logistic Regression, LDA, QDA, and KNN](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/03_-_Logistic_Regression.pdf) | *Considerations in the Classification Model*
 4. [Resampling Methods](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/04_-_Resampling_Methods.pdf) | *Cross-validation & Bootstrap*
 5. [Linear Model Selection & Regularization](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/05_-_Linear_Model_Selection_and_Regularization.pdf) | *Subset Selection Methods*
-6. [Moving Beyond Linearity]() | **
+6. [Moving Beyond Linearity](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/06_-_Moving_Beyond_Linearity.pdf) | *Non-linear Modeling*
 7. [Tree-Based Methods]() | **
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
