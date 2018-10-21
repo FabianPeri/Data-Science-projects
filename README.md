@@ -13,8 +13,8 @@ Statistical learning techniques to analyze data.
 5. [Linear Model Selection & Regularization](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/05_-_Linear_Model_Selection_and_Regularization.pdf) | *Subset Selection Methods*
 6. [Moving Beyond Linearity](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/06_-_Moving_Beyond_Linearity.pdf) | *Non-linear Modeling*
 7. [Tree-Based Methods](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/07_-_Decision_Trees.pdf) | *Fitting Trees*
-8. [Support Vector Machines]() | *Support Vector Classifiers*
-9. [Unsupervised Learning]() | *Principal Components Analysis*
+8. [Support Vector Machines](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/08_-_Support_Vector_Machines.pdf) | *Support Vector Classifiers*
+9. [Unsupervised Learning](https://github.com/FabianPeri/Data-Science-projects/blob/master/Statistical-learning/09_-_Unsupervised_Learning.pdf) | *Principal Components Analysis*
 ---
 #### Statistics for Data Scientists [O’Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 Application of various statistical methods to data science.
